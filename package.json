@@ -1,0 +1,16 @@
+{
+  "name": "wp-tinymce-placeholder",
+  "version": "1.0.0",
+  "description": "Brings HTML5 placeholder attribute functionality for the TinyMCE editor in WordPress.",
+  "keywords": [
+    "tinyMCE",
+    "Wordpress",
+    "html5"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/certainlyakey/wp-tinymce-placeholder"
+  },
+  "main": "mce.placeholder.js",
+  "author": "Myles McNamara, mohan999, Aleksandr Beliaev"
+}
